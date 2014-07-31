@@ -1,11 +1,4 @@
-=== Revolution Ajax Page Loader Lite ===
-Tags: ajax,wordpress,loader,AJAX, dynamic, jquery, loading, no refresh, page, pages, Post, posts
-Requires at least: 1.0
-Tested up to: 3.8.1
-Stable tag: 1.0
-License: GPLv2 or later
-
-AJAX Page Loader will load posts, pages, etc. without reloading entire page. Its simply works for custom post types and javascripts too.  
+AJAX Page Loader is a wordpress plugin that loads posts, pages, etc. without reloading entire page. Its simply works for custom post types and javascripts too.
 
 == Description ==
 
@@ -23,20 +16,10 @@ Major features  :
 * Worried about SEO - Does not affect your SEO at all.
 * Works on page, post, category, archieve, tags , then what else you need...
 
-Need anything more? Get the PRO version at : <a href="http://tuchuk.com">Tuchuk.com</a>
+Need anything more <a href="http://tuchuk.com">Tuchuk.com</a>
 
-What will Full Version have ?
-
-* Remove powered by link from the plugin.
-* Fade in effect in Page and load Multiple Loader Option.
-* Keeps track of browser navigation and Saves history.
-* Works with complex jquery plugins such as slider, flybox etc.
 
 == Installation ==
 
 Upload the  revoltload plugin folder to your website, Activate it, And you are done!!!!! Amazed?? Yes it so simple yet powerful.
 
-
-== Changelog ==
-
-2013/7/24 initial release
