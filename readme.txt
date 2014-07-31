@@ -4,7 +4,7 @@ AJAX Page Loader is a wordpress plugin that loads posts, pages, etc. without rel
 
 Are you looking for some WordPress themes that works on AJAX , to improve speed of site and decrease bandwidth consumption?? Then you search in complete, you can now ajaxify any of your theme in 1 click.    
 
-Hard to believe ??? Check out the demo at : <a href="http://ajaxloader.wpexplored.com">Demo</a>
+Hard to believe ??? Check out the demo at : http://ajaxloader.wpexplored.com">
 
 Major features  :
 
@@ -16,7 +16,7 @@ Major features  :
 * Worried about SEO - Does not affect your SEO at all.
 * Works on page, post, category, archieve, tags , then what else you need...
 
-Need anything more <a href="http://tuchuk.com">Tuchuk.com</a>
+Need anything more : http://tuchuk.com
 
 
 == Installation ==
